@@ -1,0 +1,4 @@
+files:
+  - source: /locales
+    translation: /locales
+    multilingual: 1
